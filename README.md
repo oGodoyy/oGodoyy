@@ -31,3 +31,7 @@ Projeto acadêmico desenvolvido para praticar e testar conhecimentos em desenvol
 Projeto acadêmico desenvolvido em linguagem C para gerar relatórios sobre o consumo de água em um campus universitário. A proposta é identificar os locais com maior consumo para apoiar a análise e o planejamento de possíveis medidas de economia.
 
 ## Contato
+
+- **GitHub:** [@oGodoyy](https://github.com/oGodoyy)
+- **LinkedIn:** [Meu perfil profissional](https://www.linkedin.com/in/jo%C3%A3o-pedro-godoy-379999243/)
+- **E-mail:** [jpdegodoy2@gmail.com](mailto:jpdegodoy2@gmail.com)
