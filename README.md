@@ -21,4 +21,13 @@ Estou em constante aprendizado e busco aplicar esses conhecimentos em projetos a
 
 ## Projetos
 
+### [BotFinanceiro](https://github.com/oGodoyy/BotFinanceiro)
+Projeto pessoal desenvolvido em JavaScript, voltado à organização financeira. Atualmente, estou avaliando melhorias e buscando definir os próximos passos para continuar seu desenvolvimento.
+
+### [Interface Express](https://github.com/oGodoyy/Projeto-2---Interface-Express-CSS-com-IA)
+Projeto acadêmico desenvolvido para praticar e testar conhecimentos em desenvolvimento web, utilizando HTML, CSS e recursos de inteligência artificial. A atividade foi concluída e entregue, com possibilidades de melhorias futuras na interface.
+
+### [EcoCampus](https://github.com/oGodoyy/Projeto3-EcoCampus)
+Projeto acadêmico desenvolvido em linguagem C para gerar relatórios sobre o consumo de água em um campus universitário. A proposta é identificar os locais com maior consumo para apoiar a análise e o planejamento de possíveis medidas de economia.
+
 ## Contato
